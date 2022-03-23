@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HMWG)](https://github.com/HMWG/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HMWG)](https://github.com/HMWG/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HMWG)](https://github.com/HMWG/github-readme-stats) -->
 
 <!--
 **HMWG/HMWG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
