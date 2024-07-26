@@ -62,10 +62,10 @@
 <hr/>
 </br>
 
-### 🏫 Education 🏫
+### 🏢 Affiliation 🏢
 
-#### Kangnam Univ. Department of Software Applications ( 2018.03 ~ 2024.02 )
-#### Programmers Devcourse. Cloud-based backend engineering ( 2024.07 ~ ) 
+#### Kangnam Univ. Department of Software Applications. Student ( 2018.03 ~ 2024.02 )
+#### Programmers Devcourse. Cloud-based backend engineering. Student ( 2024.07 ~ ) 
 
 </br>
 <hr/>
