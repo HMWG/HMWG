@@ -57,7 +57,9 @@
 </details>
 
 <div align="center">
+  
 </br>
+<hr/>
 </br>
 
 ### 🏫 Education 🏫
@@ -66,6 +68,7 @@
 #### Programmers Devcourse. Cloud-based backend engineering ( 2024.07 ~ ) 
 
 </br>
+<hr/>
 </br>
 
 ### 📜 Certificate 📜
@@ -73,7 +76,9 @@
 #### 정보처리기사
 #### SQLD
 
-<br/><br/><br/>
+
+<br/><br/>
+<br/>
 
 <div align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=HMWG&theme=radical
