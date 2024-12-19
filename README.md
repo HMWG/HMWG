@@ -10,22 +10,26 @@
   
 ![Welcome](https://capsule-render.vercel.app/api?type=venom&text=Welcome!&stroke=&animation=twinkling&strokeWidth=0.3&height=100&fontSize=50)
 
-#### Hi !   I'm Minwoo. Let me introduce myself 😊
+### Hi !   I'm Minwoo. Let me introduce myself 😊
 
 <br/>
 
-### 🛠️ Tech Stack 🛠️
+## 🛠️ Tech Stack 🛠️
 
 
 ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=&logoColor=white)
+![SpringSecurity](	https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
+
+
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](	https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </br>
@@ -35,11 +39,14 @@
 <summary>
 🔥 Todo 🔥
 </summary>
+
+![Elaticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 </br>
 
-![Kotlin](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![SpringSecurity](	https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![Docker](	https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 </details>
 </br>
 
@@ -62,16 +69,27 @@
 <hr/>
 </br>
 
-### 🏢 Affiliation 🏢
+## 🏢 Affiliation 🏢
 
 #### Kangnam Univ. Department of Software Applications. Student ( 2018.03 ~ 2024.02 )
-#### Programmers Devcourse. Cloud-based backend engineering. Student ( 2024.07 ~ ) 
+#### Programmers Devcourse. Cloud-based backend engineering. Student ( 2024.07 ~ 2024.12 ) 
 
 </br>
 <hr/>
 </br>
 
-### 📜 Certificate 📜
+## 👨‍💻 Project 👨‍💻
+
+### [Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_BE) 
+#### 숏폼 퀴즈 플랫폼 ( 2024.11 ~ 2024.12 )
+### [Foot With Me](https://github.com/prgrms-be-devcourse/NBE1_2_Team04)
+#### 풋살 팀 매칭 및 구장 예약 서비스  ( 2024.09 ~ 2024.11 )
+
+</br>
+<hr/>
+</br>
+
+## 📜 Certificate 📜
 
 #### 정보처리기사
 #### SQLD
