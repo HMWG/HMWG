@@ -80,6 +80,8 @@
 
 ## 👨‍💻 Project 👨‍💻
 
+### [Balearn](https://github.com/Jibsa-team)
+#### 스터디 모임 관리 플랫폼 ( 2024.12 ~ 진행중 )
 ### [Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_BE) 
 #### 숏폼 퀴즈 플랫폼 ( 2024.11 ~ 2024.12 )
 ### [Foot With Me](https://github.com/prgrms-be-devcourse/NBE1_2_Team04)
